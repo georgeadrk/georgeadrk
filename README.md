@@ -7,7 +7,7 @@
 - 💬 Ask me about : Anything
 - 📫 How to reach me : georgeadrielk@gmail.com
 - 😄 Pronouns : he/him
-- ⚡ Fun fact : ...
+- ⚡ Fun fact : I've been learning to code since I was 11
 
 <!--
 **georgeadrk/georgeadrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
