@@ -6,7 +6,6 @@
 - 🤔 I’m looking for help with : Anything related to programming
 - 💬 Ask me about : Anything
 - 📫 How to reach me : georgeadrielk@gmail.com
-- 😄 Pronouns : he/him
 - ⚡ Fun fact : I've been learning to code since I was 11
 - ✅ Skills : Python, C++, HTML, CSS, JavaScript, C
 
