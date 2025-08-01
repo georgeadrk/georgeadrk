@@ -8,6 +8,7 @@
 - 📫 How to reach me : georgeadrielk@gmail.com
 - 😄 Pronouns : he/him
 - ⚡ Fun fact : I've been learning to code since I was 11
+- ✅ Skills : Python, C++, HTML, CSS, JavaScript, C
 
 <!--
 **georgeadrk/georgeadrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
