@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on : Bookoria, An Online Library Website Prototype!
+- 🔭 I’m currently working on : Bookoria, An Online Library Website Prototype! (Open Repository!)
 - 🌱 I’m currently learning : Fullstack Development & AI Development
 - 👯 I’m looking to collaborate on : Anything
 - 🤔 I’m looking for help with : Anything related to programming
