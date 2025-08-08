@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! 👋
 
 - 🔭 I’m currently working on : Bookoria, An Online Library Website Prototype! (Open Repository!)
 - 🌱 I’m currently learning : Fullstack Development & AI Development & Ethical Hacking
