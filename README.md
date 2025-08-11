@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with : Anything related to programming!
 - 💬 Ask me about : Anything!
 - 📫 How to reach me : georgeadrielk@gmail.com
-- ⚡ Fun fact : I've been learning to code since I was 11
+- ⚡ Fun fact : I've been learning to code since I was 12
 - ✅ Skills : Python, C++, HTML, CSS, JavaScript, C
 
 <!--
