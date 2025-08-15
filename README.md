@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-- 🔭 I’m currently working on : A Personal Portofolio Website!
+- 🔭 I’m currently working on : An AI That Detects What Objects Are On The Screen
 - 🌱 I’m currently learning : Fullstack Development & AI Development & Ethical Hacking
 - 👯 I’m looking to collaborate on : Anything!
 - 🤔 I’m looking for help with : Anything related to programming!
