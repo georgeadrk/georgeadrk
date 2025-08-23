@@ -6,7 +6,7 @@
 - 💬 Ask me about : Anything
 - 📫 How to reach me : georgeadrielk@gmail.com
 - ⚡ Fun fact : I've been learning to code since I was 12
-- ✅ Skills : Python, C++, HTML, CSS, JavaScript, C, SQL, R
+- ✅ Skills : Python, C++, HTML, CSS, JavaScript, C, SQL, R, C#
 - 💪 LeetCode : https://leetcode.com/u/georgeadrk/
 
 <!--
