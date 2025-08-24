@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-- 🔭 I’m currently working on : AI Programs With Python
+- 🔭 I’m currently working on : Learning More Programming Languages
 - 🌱 I’m currently learning : Fullstack Development & AI Development & Ethical Hacking
 - 🤔 I’m looking for help with : Anything related to programming
 - 💬 Ask me about : Anything
