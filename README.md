@@ -8,6 +8,7 @@
 - ⚡ Fun fact : I've been learning to code since I was 12
 - ✅ Skills : Python, C++, HTML, CSS, JavaScript, C, SQL, R, C#
 - 💪 LeetCode : https://leetcode.com/u/georgeadrk/
+- 🎮 itch.io : kcgdev.itch.io
 
 <!--
 **georgeadrk/georgeadrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
